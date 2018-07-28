@@ -1,0 +1,9 @@
+[package]
+name = "bincode_overalloc"
+version = "0.1.0"
+authors = ["clemens"]
+
+[dependencies]
+bincode = "1.0.1"
+serde = "1.0.70"
+serde_derive = "1.0.70"
